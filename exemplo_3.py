@@ -95,5 +95,3 @@ def meu_mix(a, b, c, d=0, e=0):
 
 #  In [3]: meu_mix(*l, **d)
 #  Out[3]: (1, 2, 3, 4, 5)
-
-
