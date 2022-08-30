@@ -6,7 +6,7 @@ def funcao_nomeada():
     return 'Oi'
 # Para chamar a função "minha_funcao" eu uso o abre e fecha parenteses
 # após seu nome -> () -> Call
-# >>> minha_funcao()
+# >>> funcao_nomeada()
 # >>> 'Oi'
 
 #2 Função Anonima -> Lambda
